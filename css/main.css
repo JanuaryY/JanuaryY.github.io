@@ -1979,7 +1979,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f6c893;
+  background: #f201ee;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3157,7 +3157,7 @@ section#posts .post-body img {
   .container.sidebar-position-left.page-home .main-inner {
     margin-top: -20px;
   }
-  container.sidebar-position-left.page-post-detail .main-inner {
+  .container.sidebar-position-left.page-post-detail .main-inner {
     margin-top: -50px;
   }
   .site-meta {
