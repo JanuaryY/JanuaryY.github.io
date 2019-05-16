@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Learning record</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://januaryy.github.io/"/>
+  <updated>2019-05-16T13:34:39.480Z</updated>
+  <id>https://januaryy.github.io/</id>
+  
+  <author>
+    <name>Yuan ZhengWang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于Hexo+Github搭建博客</title>
+    <link href="https://januaryy.github.io/bolg.html"/>
+    <id>https://januaryy.github.io/bolg.html</id>
+    <published>2019-05-16T13:31:18.000Z</published>
+    <updated>2019-05-16T13:34:39.480Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h3 id=&quot;Hexo与Github&quot;&gt;&lt;a href=&quot;#Hexo与Github&quot; class=&quot;headerlink&quot; title=&quot;Hexo与Github&quot;&gt;&lt;/a&gt;Hexo与Github&lt;/h3&gt;&lt;h4 id=&quot;什么是Hexo？&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://januaryy.github.io/categories/Hexo/"/>
+    
+    
+      <category term="基于Hexo+Github搭建博客" scheme="https://januaryy.github.io/tags/%E5%9F%BA%E4%BA%8EHexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
