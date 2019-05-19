@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://januaryy.github.io/"/>
-  <updated>2019-05-16T13:34:39.480Z</updated>
+  <updated>2019-05-19T13:51:16.277Z</updated>
   <id>https://januaryy.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ajax</title>
+    <link href="https://januaryy.github.io/Ajax.html"/>
+    <id>https://januaryy.github.io/Ajax.html</id>
+    <published>2019-05-19T08:25:59.000Z</published>
+    <updated>2019-05-19T13:51:16.277Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h3 id=&quot;Ajax&quot;&gt;&lt;a href=&quot;#Ajax&quot; class=&quot;headerlink&quot; title=&quot;Ajax&quot;&gt;&lt;/a&gt;Ajax&lt;/h3&gt;&lt;p&gt;Ajax（Asynchronous JavaScript And XML）是一种异步技术
+      
+    
+    </summary>
+    
+      <category term="异步" scheme="https://januaryy.github.io/categories/%E5%BC%82%E6%AD%A5/"/>
+    
+    
+      <category term="Ajax异步操作" scheme="https://januaryy.github.io/tags/Ajax%E5%BC%82%E6%AD%A5%E6%93%8D%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>基于Hexo+Github搭建博客</title>
